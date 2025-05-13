@@ -1,9 +1,8 @@
 # 🖥️ Project Name
 
-![Project Logo](https://example.com/logo.png) <!-- Add an image or logo for your project -->
-![Uploading Screenshot (76).png…]()
 
 A brief description of your project and its purpose.
+![Uploading Screenshot (76).png…]()
 
 ## 🚀 Table of Contents
 
