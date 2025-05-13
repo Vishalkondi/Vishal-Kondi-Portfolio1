@@ -1,8 +1,3 @@
-# 🖥️ Project Name
-
-A brief description of your project and its purpose.
-![Uploading Screenshot (76).png…]()
-
 
 ## 🚀 Table of Contents
 
@@ -19,7 +14,8 @@ A brief description of your project and its purpose.
 
 ## 📖 Project Description
 
-**Project Name** is a [React.js] based application that provides real-time weather updates using [RapidAPI]. The app features a dynamic UI with modern design, ensuring a responsive and seamless user experience.
+**Project Name** is a [React.js] based applicat![Screenshot (76)](https://github.com/user-attachments/assets/f9c01d4a-b311-45c6-a79f-a513af7bec1d)
+ion that provides real-time weather updates using [RapidAPI]. The app features a dynamic UI with modern design, ensuring a responsive and seamless user experience.
 
 ---
 
